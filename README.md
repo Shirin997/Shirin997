@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shirin</h1>
 <h3 align="center">I'm currently a student pursuing my Bachelor of Computer Application from Netaji Subhas University, jamshedpur 🧑‍🎓. I'm passionate about Data Analyst I've started exploring the field of computer vision as well ✨ When I'm not developing and coding, you can find me watching Memes, Drawing or listening to music. Memes are something that are appreciated very much 😂.</h3>
 
-
-
-![image](https://github.com/Shirin997/Shirin997/assets/157870774/26a245f8-b895-4be4-a923-aefd630bbfb1) 
-
-
-
-
-
-
+![image](https://github.com/Shirin997/Shirin997/assets/157870774/29e071b7-7678-4f73-8a1a-6ad5b481e802)
+ 
 
 - 🌱 I’m currently learning **I’m currently learning Data Analyst and pursuing "BCA"**
 
