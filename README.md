@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shirin</h1>
-<h3 align="center">BCA Student|Data Analytics Enthusiast |Python |SQL |Excel |Power BI |AI & Machine Learning 😂.</h3>
+<h3 align="center">BCA Student|Data Analytics Enthusiast |Python |SQL |Excel |Power BI |AI & Machine Learning.</h3>
 
 ![image](https://github.com/Shirin997/Shirin997/assets/157870774/29e071b7-7678-4f73-8a1a-6ad5b481e802)
  
